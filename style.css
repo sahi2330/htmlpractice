@@ -1,0 +1,48 @@
+header{
+    background-color: rgb(47, 48, 53);
+    padding: 35px;
+    text-align: center;
+    color: white;
+    width: 100%
+}
+body{
+    background-color: rgb(183, 215, 247);
+}
+#id1 {
+    color: blue;
+    text-transform: uppercase;
+    text-align: center;
+}
+#id2 {
+    color: green;
+    text-align: center;
+}
+#img1 {
+    height: 150px;
+    width: 120px; 
+    margin: auto; 
+    display: block;
+}
+#texbelo {
+    text-align: center;
+    color: black;
+}
+#div1 {
+    color: black;
+    font-family: cursive;
+    text-align: left;
+}
+#hilyt {
+    color:rgb(65, 45, 66);
+    text-shadow: 2px, 2px;
+}
+footer {
+    background-color: rgb(47, 48, 53);
+    text-align: center;
+    padding: 40px;
+    color: white;
+    width: 100%;
+}
+a {
+    color: rgb(250, 204, 119);
+}
